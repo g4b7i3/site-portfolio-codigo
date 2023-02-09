@@ -1,0 +1,40 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;   
+    
+}
+body {
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../easy.portfolio/img/fundoofi.png")
+}
+
+ul {
+    padding: 16px;
+    align-items: center;
+    list-style-type: none;
+    display: flex;
+    justify-content:space-between
+    
+}
+a {
+    text-decoration: none;
+    color: white
+    ;
+}
+img {
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+    border: 5px solid whitesmoke
+    ;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    padding: 0px 50px;
+}
